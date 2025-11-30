@@ -1,0 +1,6 @@
+mido
+librosa
+audioread
+soundfile
+numpy
+scipy
