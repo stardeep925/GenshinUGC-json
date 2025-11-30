@@ -20,7 +20,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/stardeep925/GenshinUGC-json?style=flat-square)](https://github.com/stardeep925/GenshinUGC-json/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/stardeep925/GenshinUGC-json?style=flat-square)](https://github.com/stardeep925/GenshinUGC-json/pulls)
 
-[🎮 成品关卡：失落乐章](https://www.miyoushe.com) · [📦 项目仓库](https://github.com/stardeep925/GenshinUGC-json)
+ [📦 项目仓库](https://github.com/stardeep925/GenshinUGC-json)
 
 </div>
 
@@ -291,3 +291,4 @@ print(format_summary_cn(summary))
 - Z 轴会被压缩到有限范围，超长音频/曲目在时间分辨率上会被适当压缩。
 - 音频分析使用的是启发式方法（onset/chroma 或能量），并非精确的音符恢复。
 - 终端彩色输出依赖 ANSI 转义序列，在部分 Windows 终端可能需要额外设置才能显示颜色。
+
